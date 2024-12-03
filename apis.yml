@@ -1,0 +1,38 @@
+aid: defense-logistics-agency
+name: Defense Logistics Agency
+description: >-
+  With DLAs management of nine supply chains and about 5 million items - as well
+  as its storage, distribution and disposal missions - there are many ways to
+  work with DLA. This page provides a comprehensive list of DLA applications,
+  details and resources for accessing and using the applications, maintenance
+  and outage notices, and common points of contact.
+type: Index
+position: Consumer
+access: 3rd-Party
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+tags:
+  - API
+created: '2024-12-03'
+modified: '2024-12-03'
+url: >-
+  https://raw.githubusercontent.com/api-evangelist/defense-logistics-agency/refs/heads/main/apis.yml
+specificationVersion: '0.19'
+apis:
+  - aid: defense-logistics-agency:defense-logistics-agency
+    name: Defense Logistics Agency
+    description: >-
+      With DLAs management of nine supply chains and about 5 million items - as
+      well as its storage, distribution and disposal missions - there are many
+      ways to work with DLA. This page provides a comprehensive list of DLA
+      applications, details and resources for accessing and using the
+      applications, maintenance and outage notices, and common points of
+      contact.
+    humanURL: https://www.dla.mil/Working-With-DLA/Applications
+    tags:
+      - API
+    properties:
+      - type: Documentation
+        url: https://www.dla.mil/Working-With-DLA/Applications
+maintainers:
+  - FN: Kin Lane
+    email: info@apievangelist.com
