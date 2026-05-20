@@ -106,6 +106,8 @@ apis:
       - type: Documentation
         url: https://www.dla.mil/Energy
 common:
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/defense-logistics-agency
   - type: Website
     url: https://www.dla.mil
   - type: Documentation
