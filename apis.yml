@@ -34,6 +34,15 @@ tags:
   - Defense
   - Department of Defense
   - DLA
+  - Federal-Government
+  - Logistics
+  - Procurement
+  - Supply Chain
+tags_raw:
+  - Acquisition
+  - Defense
+  - Department of Defense
+  - DLA
   - Federal Government
   - Logistics
   - Procurement
@@ -50,6 +59,9 @@ apis:
       notices but does not itself expose a developer API.
     humanURL: https://www.dla.mil/Working-With-DLA/Applications
     tags:
+      - Application
+      - Catalog
+    tags_raw:
       - Applications
       - Catalog
     properties:
@@ -97,6 +109,10 @@ apis:
       suppliers.
     humanURL: https://www.fedmall.mil
     tags:
+      - E-Commerce
+      - Marketplace
+      - Procurement
+    tags_raw:
       - eCommerce
       - Marketplace
       - Procurement
