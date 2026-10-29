@@ -1,4 +1,4 @@
-# Defense Logistics Agency (defense-logistics-agency)
+# Defense Logistics Agency
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,67 +64,107 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-The Defense Logistics Agency (DLA) is the U.S. Department of Defense combat support agency that manages a global supply chain spanning roughly five million items in nine supply chains plus storage, distribution, fuel, construction, and disposition missions. DLA operates an extensive catalog of business applications used by suppliers, the military services, and federal partners. Most DLA applications require account registration and operate behind authentication; public-facing surfaces include the DLA Internet Bid Board System (DIBBS), DLA Disposition Services, the FedMall procurement marketplace, and federated logistics search tools.
+The Defense Logistics Agency (DLA) is the U.S. Department of Defense combat support agency that manages a global supply chain spanning roughly five million items in nine supply chains plus storage, distribution, fuel, construction, and disposition missions. DLA operates an extensive catalog of business applications used by suppliers, the military services, and federal partners. Most DLA applications require account registration and operate behind authentication; public-facing surfaces include the DLA Internet Bid Board System (DIBBS), the DLA Disposition Services storefront, the FedMall procurement marketplace, and federated logistics search tools.
 
-**URL:** [Visit APIs.json URL](https://raw.githubusercontent.com/api-evangelist/defense-logistics-agency/refs/heads/main/apis.yml)
+**Areas:** Acquisition · Defense · Department of Defense · DLA · Federal Government · Logistics · Procurement · Supply Chain
 
-## Scope
+## Defense Logistics Agency on APIs.io
 
-- **Type:** Index
-- **x-type:** government
-- **Position:** Consuming
-- **Access:** 3rd-Party
+Everything profiled for Defense Logistics Agency is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/defense-logistics-agency/](https://apis.io/providers/defense-logistics-agency/)** — or go straight to one of the APIs or properties below.
 
-## Tags
+### APIs (5)
 
-- Acquisition, Defense, Department of Defense, DLA, Federal Government, Logistics, Procurement, Supply Chain
+- [DLA Applications Catalog](https://apis.io/apis/defense-logistics-agency/defense-logistics-agency-applications/) — Comprehensive list of DLA business applications used to work with the agency, including supply, contracting, distribution, disposition, fuel, and energy…
+- [DLA Internet Bid Board System (DIBBS)](https://apis.io/apis/defense-logistics-agency/defense-logistics-agency-dibbs/) — Web-based application used by the Defense Logistics Agency to post requests for quote, solicitations, awards, and modifications for contracted supplies.…
+- [DLA Disposition Services](https://apis.io/apis/defense-logistics-agency/defense-logistics-agency-disposition-services/) — Online presence and storefronts for DLA Disposition Services that handle the reuse, transfer, donation, sale, and disposal of excess Department of Defense…
+- [FedMall](https://apis.io/apis/defense-logistics-agency/defense-logistics-agency-fedmall/) — DoD procurement marketplace operated by DLA where authorized buyers from federal, state, local, tribal, and authorized contractor communities purchase…
+- [DLA Energy](https://apis.io/apis/defense-logistics-agency/defense-logistics-agency-energy/) — DLA business unit that supplies fuel and aerospace energy products to the U.S. military and federal customers. Public-facing surfaces include the Energy…
 
-## Timestamps
+### Published properties
 
-- **Created:** 2024-12-03
-- **Modified:** 2026-04-28
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
 
-## APIs
+#### Security (1)
 
-### DLA Applications Catalog
+Authentication, trust centre, and vulnerability disclosure.
 
-Comprehensive list of DLA business applications used to work with the agency, including supply, contracting, distribution, disposition, fuel, and energy systems.
+- [Defense Logistics Agency Domain Security](https://apis.io/security/defense-logistics-agency/defense-logistics-agency-domain-security/)
 
-- **Human URL:** https://www.dla.mil/Working-With-DLA/Applications
+#### Plans and pricing (1)
 
-### DLA Internet Bid Board System (DIBBS)
+Published plans, tiers and prices.
 
-Web-based application used by DLA to post requests for quote, solicitations, awards, and modifications for contracted supplies.
+- [Defense Logistics Agency Plans Pricing](https://apis.io/plans/defense-logistics-agency/defense-logistics-agency-plans-pricing/)
 
-- **Human URL:** https://www.dibbs.bsm.dla.mil
+#### Rate limits (1)
 
-### DLA Disposition Services
+Published request limits.
 
-Online presence and storefronts for DLA Disposition Services that handle the reuse, transfer, donation, sale, and disposal of excess Department of Defense property.
+- [Defense Logistics Agency Rate Limits](https://apis.io/rate-limits/defense-logistics-agency/defense-logistics-agency-rate-limits/)
 
-- **Human URL:** https://www.dla.mil/Disposition-Services
+#### FinOps (1)
 
-### FedMall
+What the API costs to run, by operation.
 
-DoD procurement marketplace operated by DLA where authorized buyers purchase commercial off-the-shelf goods.
+- [Defense Logistics Agency Finops](https://apis.io/finops/defense-logistics-agency/defense-logistics-agency-finops/)
 
-- **Human URL:** https://www.fedmall.mil
+## Where to find this API
 
-### DLA Energy
-
-DLA business unit that supplies fuel and aerospace energy products to the U.S. military and federal customers.
-
-- **Human URL:** https://www.dla.mil/Energy
-
-## Common Properties
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
 
 - [Website](https://www.dla.mil)
 - [Documentation](https://www.dla.mil/Working-With-DLA/Applications)
-- [News](https://www.dla.mil/News)
-- [Contact Us](https://www.dla.mil/Contact)
-- [Privacy Policy](https://www.dla.mil/Site-Notices/Privacy-and-Security)
-- [FOIA](https://www.dla.mil/Info/FOIA)
+- [Privacy policy](https://www.dla.mil/Site-Notices/Privacy-and-Security)
 
-## Maintainers
+## API Evangelist rating
 
-- **Kin Lane** - kin@apievangelist.com
+**Kin Score 12.4** — emerging · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 63.4 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 7.9 |
+| Developer ergonomics | 9.5 |
+| Access clarity | 18.4 |
+
+**Agent readiness 0.6** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | derived (partial credit) |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 9.8** — Government & Public Sector
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/defense-logistics-agency/](https://apis.io/providers/defense-logistics-agency/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Defense Logistics Agency: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/defense-logistics-agency/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
